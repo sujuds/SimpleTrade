@@ -1,0 +1,10 @@
+C:\Users\Alterra\source\repos\SimpleTrade\SimpleTrade.Domain\bin\Debug\netcoreapp3.1\SimpleTrade.Domain.deps.json
+C:\Users\Alterra\source\repos\SimpleTrade\SimpleTrade.Domain\bin\Debug\netcoreapp3.1\SimpleTrade.Domain.dll
+C:\Users\Alterra\source\repos\SimpleTrade\SimpleTrade.Domain\bin\Debug\netcoreapp3.1\SimpleTrade.Domain.pdb
+C:\Users\Alterra\source\repos\SimpleTrade\SimpleTrade.Domain\obj\Debug\netcoreapp3.1\SimpleTrade.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alterra\source\repos\SimpleTrade\SimpleTrade.Domain\obj\Debug\netcoreapp3.1\SimpleTrade.Domain.AssemblyInfoInputs.cache
+C:\Users\Alterra\source\repos\SimpleTrade\SimpleTrade.Domain\obj\Debug\netcoreapp3.1\SimpleTrade.Domain.AssemblyInfo.cs
+C:\Users\Alterra\source\repos\SimpleTrade\SimpleTrade.Domain\obj\Debug\netcoreapp3.1\SimpleTrade.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Alterra\source\repos\SimpleTrade\SimpleTrade.Domain\obj\Debug\netcoreapp3.1\SimpleTrade.Domain.dll
+C:\Users\Alterra\source\repos\SimpleTrade\SimpleTrade.Domain\obj\Debug\netcoreapp3.1\SimpleTrade.Domain.pdb
+C:\Users\Alterra\source\repos\SimpleTrade\SimpleTrade.Domain\obj\Debug\netcoreapp3.1\SimpleTrade.Domain.csproj.AssemblyReference.cache
